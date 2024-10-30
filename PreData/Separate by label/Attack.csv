@@ -1,0 +1,5 @@
+Timestamp,Receive port,Protocol,Service,Original bytes,Receive bytes,State,Label
+2018-09-06 11:08:02,8080.0,tcp,-,0,0,RSTO,Attack
+2018-09-06 11:08:09,8080.0,tcp,-,0,0,RSTO,Attack
+2018-09-06 11:08:10,8080.0,tcp,http,201,0,S2,Attack
+2018-09-06 11:08:17,8080.0,tcp,-,0,0,RSTO,Attack
