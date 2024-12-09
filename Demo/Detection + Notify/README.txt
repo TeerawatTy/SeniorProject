@@ -1,14 +1,14 @@
-Python 3.8.8 Setup and Library Installation
+* Python 3.8.8 Setup and Library Installation
 
 
-Run this script
+**Run this script
 >> python setup.py
 
-Verify the installation
+**Verify the installation
 >> python --version
 
 
-Required Libraries
+**Required Libraries
 The following libraries will be installed:
 - pandas: For data manipulation.
 - numpy: For numerical operations.
